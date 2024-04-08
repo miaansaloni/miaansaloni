@@ -1,9 +1,9 @@
 <h1 align="center">Hi there👋, my name is Mia,</h1>
-<h3 align="center">a passionate learner on the journey to becoming a proficient full-stack developer. 🚀🔥 Passionate about crafting seamless user interfaces, I'm on a relentless pursuit of perfection in front-end development. 🎨✨</h3>
+<h3 align="left">a passionate learner on the journey to becoming a proficient full-stack developer. 🚀
+  
+🔥 Passionate about crafting seamless user interfaces, I'm on a relentless pursuit of perfection in front-end development. 🎨✨</h3>
 
 - 💡 Excited to embark on **on the back-end journey 🔍**
-
-- 📫 How to reach me **miansaloni@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
