@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, my name is Mia!</h1>
-<h3 align="left">a passionate learner on the journey to become a proficient full-stack developer. 🚀</h3>
+<h3 align="center">Currently a passionate learner on the journey to become a proficient full-stack developer. 🚀</h3>
   
 - 🔥 Passionate about crafting seamless user interfaces, I'm on a relentless pursuit of perfection in front-end development. 🎨✨
 - 💡 Excited to embark on **on the back-end journey 🔍**
@@ -19,8 +19,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miaansaloni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=miaansaloni&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miaansaloni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=miaansaloni&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miaansaloni&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
