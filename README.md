@@ -1,8 +1,8 @@
 <h1 align="center">Hi there👋, my name is Mia!</h1>
 <h3 align="center">Currently a passionate learner on the journey to become a proficient full-stack developer. 🚀</h3>
   
-- 🔥 Passionate about crafting seamless user interfaces, I'm on a relentless pursuit of perfection in front-end development. 🎨✨
-- 💡 Excited to embark on **on the back-end journey 🔍**
+- 🎨 Passionate about crafting seamless user interfaces, I'm on a relentless pursuit of perfection in front-end development.
+- 🔍** Excited to embark on **on the back-end journey 🔍**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
