@@ -2,8 +2,7 @@
 <h3 align="center">Currently a passionate learner on the journey to become a proficient full-stack developer. 🚀</h3>
   
 - 🎨 Passionate about crafting seamless user interfaces, I'm on a relentless pursuit of perfection in front-end development.
-- 🔍 Excited to embark on **on the back-end journey**
-
+  
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
